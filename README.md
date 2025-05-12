@@ -28,6 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishvow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishvow&show_icons=true&locale=en&layout=compact" alt="harishvow" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishvow&" alt="harishvow" /></p>
