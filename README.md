@@ -1,6 +1,6 @@
 # Hi, I'm Harish Chidamparam 👋
 
-📧 [harisharish982005@gmail.com](mailto:harisharish982005@gmail.com) | 📱 6374510372  
+📧 [harisharish982005@gmail.com](mailto:harisharish982005@gmail.com) | 
 🔗 [LinkedIn](https://linkedin.com/in/Harish%20Chidamparam%20G) | 💻 [GitHub](https://github.com/Harishvow)
 
 ---
