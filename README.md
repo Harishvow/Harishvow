@@ -28,18 +28,6 @@ Entry-level Software Engineer passionate about building full-stack and AI-driven
 
 ---
 
-## 🎓 Education
-
-**B.Tech, Computer Science with Business Systems**  
-SRM Institute of Science and Technology, Ramapuram, Chennai  
-*Current CGPA: 8.7/10.0*
-
-**Higher Secondary Education (Maths & Computer Science)**  
-Sri Jayendra Saraswathi Golden Jubilee School, Tirunelveli  
-*Percentage: 73/100*
-
----
-
 ## 💼 Experience
 
 ### Software Engineer Intern — Shopto (Remote, Hyderabad)
@@ -47,26 +35,6 @@ Sri Jayendra Saraswathi Golden Jubilee School, Tirunelveli
 - Evaluated and optimized AI model outputs using A/B testing and prompt engineering
 - Contributed to MERN stack development, including REST APIs and frontend integration
 - Collaborated on AI-driven features, frontend and backend integration
-
----
-
-## 🧑‍💻 Featured Projects
-
-### [Spendify](https://github.com/Harishvow/spendify) — Personal Finance Management App
-*Python, SQL, Streamlit*  
-Secure expense-tracking application with authentication, analytics dashboards, and SQL-based data persistence.
-
-### [OncoSense](https://github.com/Harishvow/OncoSense) — AI-Powered Hospital Management System
-*FastAPI, Python, Flutter, React, SQLAlchemy*  
-AI-driven APIs and dashboards for patient management, cancer risk prediction, and clinical analytics.
-
-### [NEWSAPI](https://github.com/Harishvow/NEWSAPI) — News Aggregation API
-*Python, Flask, REST API, JSON*  
-RESTful news aggregation service to fetch and filter articles by category and geographic region.
-
-### [Whatsapp-Birthdaybot](https://github.com/Harishvow/Whatsapp-Birthdaybot)
-*Python*  
-Automated scheduled birthday messaging with contact management integration.
 
 ---
 
