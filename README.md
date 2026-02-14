@@ -1,6 +1,5 @@
 # Hi, I'm Harish Chidamparam 👋
 
-**Valasaravakam, Chennai - 600089**  
 📧 [harisharish982005@gmail.com](mailto:harisharish982005@gmail.com) | 📱 6374510372  
 🔗 [LinkedIn](https://linkedin.com/in/Harish%20Chidamparam%20G) | 💻 [GitHub](https://github.com/Harishvow)
 
