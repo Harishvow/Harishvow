@@ -1,37 +1,130 @@
-<h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">Python developer</h3>
+# Hi, I'm Harish Chidamparam 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishvow&label=Profile%20views&color=0e75b6&style=flat" alt="harishvow" /> </p>
+**Valasaravakam, Chennai - 600089**  
+📧 [harisharish982005@gmail.com](mailto:harisharish982005@gmail.com) | 📱 6374510372  
+🔗 [LinkedIn](https://linkedin.com/in/Harish%20Chidamparam%20G) | 💻 [GitHub](https://github.com/Harishvow)
 
+---
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on [WeatherDataApi](WeatherDataAPI)
+Entry-level Software Engineer passionate about building full-stack and AI-driven applications. Experienced in developing RESTful APIs, working with the MERN stack, and integrating AI solutions (LLMs, RAG) into real-world products. I thrive in collaborative, production environments and focus on delivering scalable, maintainable software.
 
-- 🌱 I’m currently learning **Flask**
+---
 
-- 🤝 I’m looking for help with [Spendify Want To Develop A App](https://github.com/Harishvow/spendify)
+## 💻 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://harishportfilio.streamlit.app/](https://harishportfilio.streamlit.app/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
 
-- 📫 How to reach me **harisharish982005@gmail.com**
+**AI/ML:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harish chidamparam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish chidamparam" height="30" width="40" /></a>
-</p>
+---
 
+## 🎓 Education
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harishvow&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harishvow&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishvow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**B.Tech, Computer Science with Business Systems**  
+SRM Institute of Science and Technology, Ramapuram, Chennai  
+*Current CGPA: 8.7/10.0*
+
+**Higher Secondary Education (Maths & Computer Science)**  
+Sri Jayendra Saraswathi Golden Jubilee School, Tirunelveli  
+*Percentage: 73/100*
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern — Shopto (Remote, Hyderabad)
+**Aug 2023 – May 2027**
+- Evaluated and optimized AI model outputs using A/B testing and prompt engineering
+- Contributed to MERN stack development, including REST APIs and frontend integration
+- Collaborated on AI-driven features, frontend and backend integration
+
+---
+
+## 🧑‍💻 Featured Projects
+
+### [Spendify](https://github.com/Harishvow/spendify) — Personal Finance Management App
+*Python, SQL, Streamlit*  
+Secure expense-tracking application with authentication, analytics dashboards, and SQL-based data persistence.
+
+### [OncoSense](https://github.com/Harishvow/OncoSense) — AI-Powered Hospital Management System
+*FastAPI, Python, Flutter, React, SQLAlchemy*  
+AI-driven APIs and dashboards for patient management, cancer risk prediction, and clinical analytics.
+
+### [NEWSAPI](https://github.com/Harishvow/NEWSAPI) — News Aggregation API
+*Python, Flask, REST API, JSON*  
+RESTful news aggregation service to fetch and filter articles by category and geographic region.
+
+### [Whatsapp-Birthdaybot](https://github.com/Harishvow/Whatsapp-Birthdaybot)
+*Python*  
+Automated scheduled birthday messaging with contact management integration.
+
+---
+
+## 📂 All Projects
+
+| Repository | Language | Description |
+|---|---|---|
+| [rate-limiter](https://github.com/Harishvow/rate-limiter) | JavaScript | API rate limiting implementation |
+| [build-a-bot](https://github.com/Harishvow/build-a-bot) | CSS | Bot builder interface |
+| [anyfeast](https://github.com/Harishvow/anyfeast) | Dart | Flutter application |
+| [Url-shortly](https://github.com/Harishvow/Url-shortly) | JavaScript | URL shortening service |
+| [Notes_App](https://github.com/Harishvow/Notes_App) | JavaScript | Note-taking application |
+| [Java](https://github.com/Harishvow/Java) | Java | Java learning projects |
+| [cve-bin-tool](https://github.com/Harishvow/cve-bin-tool) | Python | CVE vulnerability scanner |
+| [File_Manager](https://github.com/Harishvow/File_Manager) | HTML | File management system |
+| [ToDo-Flutter-App](https://github.com/Harishvow/ToDo-Flutter-App) | C++ | Cross-platform todo app |
+| [Forecastdata-Webapp](https://github.com/Harishvow/Forecastdata-Webapp) | Python | Weather forecasting web app |
+| [WeatherDataAPI](https://github.com/Harishvow/WeatherDataAPI) | Python | Weather data API service |
+| [AttendanceTracker](https://github.com/Harishvow/AttendanceTracker) | Python | Attendance management system |
+| [Excel-to-PDF-generator](https://github.com/Harishvow/Excel-to-PDF-generator) | Python | Document conversion tool |
+| [Password_Manager](https://github.com/Harishvow/Password_Manager) | Python | Secure password management CLI |
+| [Portfilio](https://github.com/Harishvow/Portfilio) | Python | Personal portfolio website |
+| [Todo-App](https://github.com/Harishvow/Todo-App) | Python | Minimalist todo application |
+
+---
+
+## 📊 GitHub Stats
+
+![Harishvow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishvow&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harishvow&theme=radical&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Harishvow&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harishvow&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on full-stack projects, AI/ML applications, and open-source contributions. Feel free to reach out!
+
+<p align="left">
+  <a href="mailto:harisharish982005@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Harish%20Chidamparam%20G">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Harishvow">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harishvow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
