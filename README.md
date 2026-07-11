@@ -5,22 +5,53 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p
 
-```
+<svg width="760" height="430" viewBox="0 0 760 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .win { fill: #0d1117; stroke: #1f2733; stroke-width: 1; }
+      .bar { fill: #151b23; }
+      .dot-r { fill: #ff5f56; }
+      .dot-y { fill: #ffbd2e; }
+      .dot-g { fill: #27c93f; }
+      .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #7d8590; }
+      .key { font-family: 'Courier New', monospace; font-size: 14px; fill: #7ee787; }
+      .str { font-family: 'Courier New', monospace; font-size: 14px; fill: #a5d6ff; }
+      .punc { font-family: 'Courier New', monospace; font-size: 14px; fill: #7d8590; }
+      .brace { font-family: 'Courier New', monospace; font-size: 14px; fill: #ffa657; }
+      .label { font-family: 'Courier New', monospace; font-size: 13px; fill: #00ff41; }
+    </style>
+  </defs>
 
-┌─[har@archlinux]─[~]
-└──╼ $ neofetch
+  <rect x="1" y="1" width="758" height="428" rx="12" class="win"/>
 
-        /\          har@archlinux
-       /  \         ─────────────
-      /\   \        OS: Arch Linux x86_64
-     /      \       Role: Software Engineer
-    /  ,,    \      Building: Systems · APIs · AI Infra
-   /   ||     \     Kernel: React · Node.js · MongoDB · PostgreSQL
-  /    ''      \    Editor: Neovim / VS Code
- /_-''      ''-_\   Shell: zsh
-                    Uptime: until the machine bursts 
+  <rect x="1" y="1" width="758" height="36" rx="12" class="bar"/>
+  <rect x="1" y="25" width="758" height="12" class="bar"/>
 
-```
+  <circle cx="26" cy="19" r="6" class="dot-r"/>
+  <circle cx="46" cy="19" r="6" class="dot-y"/>
+  <circle cx="66" cy="19" r="6" class="dot-g"/>
+  <text x="380" y="24" text-anchor="middle" class="title">har@archlinux — docker inspect</text>
+
+  <text x="28" y="70" class="label">$ docker inspect har-dev</text>
+
+  <text x="28" y="105" class="brace">{</text>
+
+  <text x="48" y="132"><tspan class="key">"Container"</tspan><tspan class="punc">: </tspan><tspan class="str">"har-dev"</tspan><tspan class="punc">,</tspan></text>
+  <text x="48" y="159"><tspan class="key">"Image"</tspan><tspan class="punc">: </tspan><tspan class="str">"software-architect:latest"</tspan><tspan class="punc">,</tspan></text>
+  <text x="48" y="186"><tspan class="key">"Status"</tspan><tspan class="punc">: </tspan><tspan class="str">"running"</tspan><tspan class="punc">,</tspan></text>
+  <text x="48" y="213"><tspan class="key">"Uptime"</tspan><tspan class="punc">: </tspan><tspan class="str">"until the machine bursts"</tspan><tspan class="punc">,</tspan></text>
+
+  <text x="48" y="240"><tspan class="key">"Config"</tspan><tspan class="punc">: </tspan><tspan class="brace">{</tspan></text>
+  <text x="68" y="267"><tspan class="key">"Role"</tspan><tspan class="punc">: </tspan><tspan class="str">"Software Architect"</tspan><tspan class="punc">,</tspan></text>
+  <text x="68" y="294"><tspan class="key">"Building"</tspan><tspan class="punc">: [</tspan><tspan class="str">"Distributed Systems"</tspan><tspan class="punc">, </tspan><tspan class="str">"AI Infra"</tspan><tspan class="punc">, </tspan><tspan class="str">"APIs"</tspan><tspan class="punc">],</tspan></text>
+  <text x="68" y="321"><tspan class="key">"Stack"</tspan><tspan class="punc">: [</tspan><tspan class="str">"React"</tspan><tspan class="punc">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="punc">, </tspan><tspan class="str">"MongoDB"</tspan><tspan class="punc">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punc">],</tspan></text>
+  <text x="68" y="348"><tspan class="key">"Shell"</tspan><tspan class="punc">: </tspan><tspan class="str">"/bin/zsh"</tspan></text>
+  <text x="48" y="375"><tspan class="brace">}</tspan><tspan class="punc">,</tspan></text>
+
+  <text x="48" y="402"><tspan class="key">"CurrentProcess"</tspan><tspan class="punc">: </tspan><tspan class="str">"Shipping RouteMind &amp; OpenChat"</tspan></text>
+
+  <text x="28" y="422" class="brace">}</text>
+</svg>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
