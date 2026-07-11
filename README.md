@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40har%3A~%24+whoami;Software+Architect+%7C+Systems+Thinker;I+design+the+blueprint%2C+then+I+build+it;Building+RouteMind+%7C+AI+Gateway;Building+OpenChat+%7C+Realtime+Chat;sudo+make+it+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=root%40har%3A~%24+whoami;Software+Architect+%7C+Systems+Thinker;I+design+the+blueprint%2C+then+I+build+it;Building+RouteMind+%7C+AI+Gateway;Building+OpenChat+%7C+Realtime+Chat;sudo+make+it+scale" alt="Typing SVG" />
 </h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
-</p
-
+</p>
 ```
 ┌─[har@archlinux]─[~]
 └──╼ $ neofetch
