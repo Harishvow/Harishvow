@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40har%3A~%24+whoami;Building+RouteMind+%7C+AI+Gateway;Building+OpenChat+%7C+Realtime+Chat;Currently+optimizing+token+usage..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40har%3A~%24+whoami;Software+Architect+%7C+Systems+Thinker;I+design+the+blueprint%2C+then+I+build+it;Building+RouteMind+%7C+AI+Gateway;Building+OpenChat+%7C+Realtime+Chat;sudo+make+it+scale" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
-</p>
+</p
 
 ```
 
@@ -19,7 +18,7 @@
    /   ||     \     Kernel: React · Node.js · MongoDB · PostgreSQL
   /    ''      \    Editor: Neovim / VS Code
  /_-''      ''-_\   Shell: zsh
-                    Uptime: until the machine bursts 💥
+                    Uptime: until the machine bursts 
 
 ```
 
@@ -38,10 +37,10 @@
 ### `$ ls -la projects/`
 
 ```
-drwxr-xr-x  routemind/      AI API gateway · virtual child-key rentals · semantic caching
-drwxr-xr-x  openchat/       Real-time link-based chat · sockets · zero-signup rooms
-drwxr-xr-x  rate-limiter/   Custom rate limiting engine · token-bucket & sliding window
-drwxr-xr-x  legal-qa/       AI-powered legal Q&A · RAG over legal documents
+routemind/      AI API gateway · virtual child-key rentals · semantic caching
+openchat/       Real-time link-based chat · sockets · zero-signup rooms
+rate-limiter/   Custom rate limiting engine · token-bucket & sliding window
+legal-qa/       AI-powered legal Q&A · RAG over legal documents
 ```
 
 <table>
@@ -53,7 +52,7 @@ AI API gateway that issues scoped virtual "child" keys per tenant, with semantic
 
 `Node.js` `Express` `MongoDB` `JWT` `REST`
 
-[`→ view repo`](#)
+[`→ view repo`](https://github.com/Harishvow/RouteMind)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +74,7 @@ A configurable rate-limiting engine implementing token-bucket and sliding-window
 
 `Node.js` `Redis` `System Design`
 
-[`→ view repo`](#)
+[`→ view repo`](https://github.com/Harishvow/rate-limiter)
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +84,7 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 
 `Python` `LangChain` `Vector DB` `LLMs`
 
-[`→ view repo`](#)
+[`→ view repo`](https://github.com/Harishvow/Legal-Q-A)
 
 </td>
 </tr>
@@ -98,7 +97,7 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 ### `$ ps aux | grep skills`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,mongodb,postgres,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,sql,azure,flask,fastapi,rag,docker,git,linux&theme=dark" />
 </p>
 
 ### `$ uptime --stats`
@@ -115,9 +114,9 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 ### `$ ./connect.sh`
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-00FF41?style=flat-square&logo=gmail&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&logo=github&logoColor=black" /></a>
+  <a href="mailto:harisharish982005@gmail.com"><img src="https://img.shields.io/badge/-Email-00FF41?style=flat-square&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/harishchidampramg"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/harishvow"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&logo=github&logoColor=black" /></a>
 </p>
 
 <p align="center">
