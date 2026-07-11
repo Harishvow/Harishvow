@@ -5,23 +5,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=HARISH&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=Software%20Architect%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18&animation=fadeIn" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40har%3A~%24+whoami;Software+Architect+%7C+Systems+Thinker;I+design+the+blueprint%2C+then+I+build+it;Building+RouteMind+%7C+AI+API+Gateway;Building+OpenChat+%7C+Realtime+Chat+Infra;sudo+make+it+scale" alt="Typing SVG" />
-<br>
-<a href="mailto:harisharish982005@gmail.com"><img src="https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://linkedin.com/in/harishchidampramg"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<a href="https://github.com/harishvow"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" /></a>
-<img src="https://komarev.com/ghpvc/?username=harishvow&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+```
 
-</div>
-<br>
-<div align="center">
-<img src="./assets/docker-inspect-card.svg" alt="docker inspect har-dev" width="700"/>
-</div>
-<br>
-<table align="center">
-<tr>
+┌─[har@archlinux]─[~]
+└──╼ $ neofetch
+
+        /\          har@archlinux
+       /  \         ─────────────
+      /\   \        OS: Arch Linux x86_64
+     /      \       Role: Software Engineer
+    /  ,,    \      Building: Systems · APIs · AI Infra
+   /   ||     \     Kernel: React · Node.js · MongoDB · PostgreSQL
+  /    ''      \    Editor: Neovim / VS Code
+ /_-''      ''-_\   Shell: zsh
+                    Uptime: until the machine bursts 
+
+```
 <td width="50%" valign="top">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
