@@ -5,54 +5,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p
 
-<svg width="760" height="430" viewBox="0 0 760 430" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      .win { fill: #0d1117; stroke: #1f2733; stroke-width: 1; }
-      .bar { fill: #151b23; }
-      .dot-r { fill: #ff5f56; }
-      .dot-y { fill: #ffbd2e; }
-      .dot-g { fill: #27c93f; }
-      .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #7d8590; }
-      .key { font-family: 'Courier New', monospace; font-size: 14px; fill: #7ee787; }
-      .str { font-family: 'Courier New', monospace; font-size: 14px; fill: #a5d6ff; }
-      .punc { font-family: 'Courier New', monospace; font-size: 14px; fill: #7d8590; }
-      .brace { font-family: 'Courier New', monospace; font-size: 14px; fill: #ffa657; }
-      .label { font-family: 'Courier New', monospace; font-size: 13px; fill: #00ff41; }
-    </style>
-  </defs>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=HARISH&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=Software%20Architect%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40har%3A~%24+whoami;Software+Architect+%7C+Systems+Thinker;I+design+the+blueprint%2C+then+I+build+it;Building+RouteMind+%7C+AI+API+Gateway;Building+OpenChat+%7C+Realtime+Chat+Infra;sudo+make+it+scale" alt="Typing SVG" />
+<br>
+<a href="mailto:harisharish982005@gmail.com"><img src="https://img.shields.io/badge/-Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://linkedin.com/in/harishchidampramg"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://github.com/harishvow"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" /></a>
+<img src="https://komarev.com/ghpvc/?username=harishvow&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
 
-  <rect x="1" y="1" width="758" height="428" rx="12" class="win"/>
-
-  <rect x="1" y="1" width="758" height="36" rx="12" class="bar"/>
-  <rect x="1" y="25" width="758" height="12" class="bar"/>
-
-  <circle cx="26" cy="19" r="6" class="dot-r"/>
-  <circle cx="46" cy="19" r="6" class="dot-y"/>
-  <circle cx="66" cy="19" r="6" class="dot-g"/>
-  <text x="380" y="24" text-anchor="middle" class="title">har@archlinux — docker inspect</text>
-
-  <text x="28" y="70" class="label">$ docker inspect har-dev</text>
-
-  <text x="28" y="105" class="brace">{</text>
-
-  <text x="48" y="132"><tspan class="key">"Container"</tspan><tspan class="punc">: </tspan><tspan class="str">"har-dev"</tspan><tspan class="punc">,</tspan></text>
-  <text x="48" y="159"><tspan class="key">"Image"</tspan><tspan class="punc">: </tspan><tspan class="str">"software-architect:latest"</tspan><tspan class="punc">,</tspan></text>
-  <text x="48" y="186"><tspan class="key">"Status"</tspan><tspan class="punc">: </tspan><tspan class="str">"running"</tspan><tspan class="punc">,</tspan></text>
-  <text x="48" y="213"><tspan class="key">"Uptime"</tspan><tspan class="punc">: </tspan><tspan class="str">"until the machine bursts"</tspan><tspan class="punc">,</tspan></text>
-
-  <text x="48" y="240"><tspan class="key">"Config"</tspan><tspan class="punc">: </tspan><tspan class="brace">{</tspan></text>
-  <text x="68" y="267"><tspan class="key">"Role"</tspan><tspan class="punc">: </tspan><tspan class="str">"Software Architect"</tspan><tspan class="punc">,</tspan></text>
-  <text x="68" y="294"><tspan class="key">"Building"</tspan><tspan class="punc">: [</tspan><tspan class="str">"Distributed Systems"</tspan><tspan class="punc">, </tspan><tspan class="str">"AI Infra"</tspan><tspan class="punc">, </tspan><tspan class="str">"APIs"</tspan><tspan class="punc">],</tspan></text>
-  <text x="68" y="321"><tspan class="key">"Stack"</tspan><tspan class="punc">: [</tspan><tspan class="str">"React"</tspan><tspan class="punc">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="punc">, </tspan><tspan class="str">"MongoDB"</tspan><tspan class="punc">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punc">],</tspan></text>
-  <text x="68" y="348"><tspan class="key">"Shell"</tspan><tspan class="punc">: </tspan><tspan class="str">"/bin/zsh"</tspan></text>
-  <text x="48" y="375"><tspan class="brace">}</tspan><tspan class="punc">,</tspan></text>
-
-  <text x="48" y="402"><tspan class="key">"CurrentProcess"</tspan><tspan class="punc">: </tspan><tspan class="str">"Shipping RouteMind &amp; OpenChat"</tspan></text>
-
-  <text x="28" y="422" class="brace">}</text>
-</svg>
-
+</div>
+<br>
+<div align="center">
+<img src="./assets/docker-inspect-card.svg" alt="docker inspect har-dev" width="700"/>
+</div>
+<br>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p>
