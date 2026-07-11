@@ -97,18 +97,18 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 ### `$ ps aux | grep skills`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,sql,azure,flask,fastapi,rag,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,supabase,azure,flask,fastapi,huggingface,docker,git,linux&theme=dark" />
 </p>
 
 ### `$ uptime --stats`
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harishvow&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishvow&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishvow&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
 </p>
 
 ### `$ ./connect.sh`
