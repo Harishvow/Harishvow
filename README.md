@@ -6,7 +6,6 @@
 </p
 
 ```
-
 ┌─[har@archlinux]─[~]
 └──╼ $ neofetch
 
@@ -18,9 +17,14 @@
    /   ||     \     Kernel: React · Node.js · MongoDB · PostgreSQL
   /    ''      \    Editor: Neovim / VS Code
  /_-''      ''-_\   Shell: zsh
-                    Uptime: until the machine bursts 
-
+                    Uptime: until the machine bursts
 ```
+### `$ ps aux | grep skills`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,supabase,azure,flask,fastapi,vite,redis,arch,docker,git,linux&theme=dark" />
+</p>
+
 <td width="50%" valign="top">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
@@ -92,12 +96,6 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
-</p>
-
-### `$ ps aux | grep skills`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,supabase,azure,flask,fastapi,vite,redis,arch,docker,git,linux&theme=dark" />
 </p>
 
 ### `$ uptime --stats`
