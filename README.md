@@ -1,34 +1,101 @@
-<h1 align="center">Hi 👋, I'm Harish Chidamparam</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40har%3A~%24+whoami;Building+RouteMind+%7C+AI+Gateway;Building+OpenChat+%7C+Realtime+Chat;Currently+optimizing+token+usage..." alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harishvow&label=Profile%20views&color=0e75b6&style=flat" alt="Harishvow" /> </p>
-
-- 📫 How to reach me **harisharish982005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Harish%20Chidamparam%20G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harish Chidamparam" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="langchain" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+```
+
+┌─[har@archlinux]─[~]
+└──╼ $ neofetch
+
+        /\          har@archlinux
+       /  \         ─────────────
+      /\   \        OS: Arch Linux x86_64
+     /      \       Role: Software Enginneer
+    /   ,,   \      Focus: AI Infra · Systems · Full-Stack
+   /   |  |   \     Editor: Neovim / VS Code
+  /_-''    ''-_\    Shell: zsh
+                    Uptime: Until Machine get  burst
+
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harishvow&show_icons=true&locale=en&layout=compact" alt="Harishvow" /></p>
+### `$ cat about.md`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harishvow&show_icons=true&locale=en&theme=radical" alt="Harishvow" /></p>
+```bash
+> President, TechPro Club @ SRM — ran Axiora Ideathon 2024
+> Ex Software Engineer Intern @ Shopto (Remote)
+> Building infrastructure-level tools, not just apps
+> I like terminals more than GUIs. Fight me.
+```
+
+### `$ ls -la projects/`
+
+```
+drwxr-xr-x  routemind/    AI API gateway · virtual child-key rentals · semantic caching
+drwxr-xr-x  openchat/     Real-time link-based chat · sockets · zero-signup rooms
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔑 RouteMind**
+AI API gateway that issues scoped virtual "child" keys per tenant, with semantic caching and token-usage optimization baked in for multi-tenant workloads.
+
+`Node.js` `Express` `MongoDB` `JWT` `REST`
+
+[`→ view repo`](#)
+
+</td>
+<td width="50%" valign="top">
+
+**💬 OpenChat**
+Real-time, link-based chat app — jump into a room with zero signup, powered by sockets under the hood.
+
+`React` `Vite` `Node.js` `Socket.io` `PostgreSQL`
+
+[`→ view repo`](#)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=800" />
+</p>
+
+### `$ ps aux | grep skills`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nodejs,express,mongodb,postgres,docker,git,linux&theme=dark" />
+</p>
+
+### `$ uptime --stats`
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165"/>
+</p>
+
+### `$ ./connect.sh`
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-00FF41?style=flat-square&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-00FF41?style=flat-square&logo=github&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <sub>root@har:~$ <i>logout</i></sub>
+</p>
