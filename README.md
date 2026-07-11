@@ -52,7 +52,7 @@ legal-qa/       AI-powered legal Q&A · RAG over legal documents
 <tr>
 <td width="50%" valign="top">
 
-**🔑 RouteMind**
+** RouteMind**
 AI API gateway that issues scoped virtual "child" keys per tenant, with semantic caching and token-usage optimization baked in for multi-tenant workloads.
 
 `Node.js` `Express` `MongoDB` `JWT` `REST`
@@ -62,7 +62,7 @@ AI API gateway that issues scoped virtual "child" keys per tenant, with semantic
 </td>
 <td width="50%" valign="top">
 
-**💬 OpenChat**
+** OpenChat**
 Real-time, link-based chat app — jump into a room with zero signup, powered by sockets under the hood.
 
 `React` `Vite` `Node.js` `Socket.io` `PostgreSQL`
@@ -74,7 +74,7 @@ Real-time, link-based chat app — jump into a room with zero signup, powered by
 <tr>
 <td width="50%" valign="top">
 
-**⏱️ Rate Limiter**
+** Rate Limiter**
 A configurable rate-limiting engine implementing token-bucket and sliding-window algorithms — built to protect APIs from abuse at scale.
 
 `Node.js` `Redis` `System Design`
@@ -84,7 +84,7 @@ A configurable rate-limiting engine implementing token-bucket and sliding-window
 </td>
 <td width="50%" valign="top">
 
-**⚖️ Legal Q&A**
+** Legal Q&A**
 An AI assistant that answers legal questions by retrieving and reasoning over real legal documents using RAG, instead of hallucinating case law.
 
 `Python` `LangChain` `Vector DB` `LLMs`
