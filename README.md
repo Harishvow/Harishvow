@@ -63,7 +63,7 @@ Real-time, link-based chat app — jump into a room with zero signup, powered by
 
 `React` `Vite` `Node.js` `Socket.io` `PostgreSQL`
 
-[`→ view repo`](#)
+[`→ view repo`](https://github.com/Harishvow/OpenChat)
 
 </td>
 </tr>
