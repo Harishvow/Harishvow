@@ -29,8 +29,7 @@
 ### `$ cat about.md`
 
 ```bash
-> President, TechPro Club @ SRM — ran Axiora Ideathon 2024
-> Ex Software Engineer Intern @ Shopto (Remote)
+>
 > Building infrastructure-level tools, not just apps
 > I like terminals more than GUIs. Fight me.
 ```
