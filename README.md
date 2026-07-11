@@ -14,11 +14,12 @@
         /\          har@archlinux
        /  \         ─────────────
       /\   \        OS: Arch Linux x86_64
-     /      \       Role: Software Enginneer
-    /   ,,   \      Focus: AI Infra · Systems · Full-Stack
-   /   |  |   \     Editor: Neovim / VS Code
-  /_-''    ''-_\    Shell: zsh
-                    Uptime: Until Machine get  burst
+     /      \       Role: Software Engineer
+    /  ,,    \      Building: Systems · APIs · AI Infra
+   /   ||     \     Kernel: React · Node.js · MongoDB · PostgreSQL
+  /    ''      \    Editor: Neovim / VS Code
+ /_-''      ''-_\   Shell: zsh
+                    Uptime: until the machine bursts 💥
 
 ```
 
@@ -29,16 +30,18 @@
 ### `$ cat about.md`
 
 ```bash
->
-> Building infrastructure-level tools, not just apps
+> Software Engineer who thinks in systems, not just features
+> I don't just write code — I architect the thing underneath it
 > I like terminals more than GUIs. Fight me.
 ```
 
 ### `$ ls -la projects/`
 
 ```
-drwxr-xr-x  routemind/    AI API gateway · virtual child-key rentals · semantic caching
-drwxr-xr-x  openchat/     Real-time link-based chat · sockets · zero-signup rooms
+drwxr-xr-x  routemind/      AI API gateway · virtual child-key rentals · semantic caching
+drwxr-xr-x  openchat/       Real-time link-based chat · sockets · zero-signup rooms
+drwxr-xr-x  rate-limiter/   Custom rate limiting engine · token-bucket & sliding window
+drwxr-xr-x  legal-qa/       AI-powered legal Q&A · RAG over legal documents
 ```
 
 <table>
@@ -59,6 +62,28 @@ AI API gateway that issues scoped virtual "child" keys per tenant, with semantic
 Real-time, link-based chat app — jump into a room with zero signup, powered by sockets under the hood.
 
 `React` `Vite` `Node.js` `Socket.io` `PostgreSQL`
+
+[`→ view repo`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⏱️ Rate Limiter**
+A configurable rate-limiting engine implementing token-bucket and sliding-window algorithms — built to protect APIs from abuse at scale.
+
+`Node.js` `Redis` `System Design`
+
+[`→ view repo`](#)
+
+</td>
+<td width="50%" valign="top">
+
+**⚖️ Legal Q&A**
+An AI assistant that answers legal questions by retrieving and reasoning over real legal documents using RAG, instead of hallucinating case law.
+
+`Python` `LangChain` `Vector DB` `LLMs`
 
 [`→ view repo`](#)
 
