@@ -97,7 +97,7 @@ An AI assistant that answers legal questions by retrieving and reasoning over re
 ### `$ ps aux | grep skills`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,supabase,azure,flask,fastapi,vite,redis,archlinux,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,mongodb,postgres,supabase,azure,flask,fastapi,vite,redis,arch,docker,git,linux&theme=dark" />
 </p>
 
 ### `$ uptime --stats`
